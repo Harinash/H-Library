@@ -9,7 +9,7 @@
 <!-- Head -->
 <head>
 
-	<title>Library Management System </title>
+	<title>H-Library </title>
 
 	<!-- Meta-Tags -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
