@@ -49,11 +49,10 @@
                                 <input type="password" class="input" id="password" placeholder="Password" required> 
                             </div>
                             
-                            <button type="submit" class="submit">Sign In</button>
-                            <!-- <label>
-                                <a href="forgot_password.php">Forgotten your password?</a>
-                            </label> -->
-                            <h5><a href="forgot_password.php">Forgotten your password?</a></h5>
+                            <button type="submit" class="submit">Reset Password</button>
+                            <div class="signup-link2">
+                           Don't have an account? <a href="signup.php" class="signup-link">Sign up</a>
+                        </div>
                         </form>
                     </div>
                 </div>
@@ -69,8 +68,8 @@
                 <div class="card">
                     <div class="card-body text-center">
 
-                        <div class="signup-link">
-                           Don't have an account? <a href="signup.php" class="signup-link">Sign up</a>
+                        <div class="signup-link3">
+                            <a href="index.php" class="signup-link">Back to Sign in</a>
                         </div>
                     </div>
                 </div>
